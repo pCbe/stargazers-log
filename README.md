@@ -1,2 +1,2 @@
 # stargazers-log
-A log of my stared repos :D
+A log of my starred repos :D
